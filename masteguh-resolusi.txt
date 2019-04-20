@@ -1,4 +1,5 @@
 MASTEGUH RESOLUSI
-- 
-- 
-- 
+- Membuat Aplikasi sebagai bahan belajar
+- Belajar laravel
+- Belajar React
+- Belajar Angular
